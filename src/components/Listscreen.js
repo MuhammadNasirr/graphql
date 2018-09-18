@@ -9,10 +9,11 @@ export default class Listscreen extends Component {
         headerStyle: {
             backgroundColor: '#4c4cff',
         },
+        headerLeft: null
     }
     constructor(props) {
         super(props);
-        this.state = { text: 'Search', activeTab: 1 };
+        this.state = { text: '', activeTab: 1 };
     }
     toggleActiveTab = (activeTab) => {
         this.setState({ activeTab })
@@ -26,56 +27,59 @@ export default class Listscreen extends Component {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
                 subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
-                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+                description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
                 subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
-                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+                description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
                 subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
-                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+                description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
 
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
                 subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
-                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+                description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
                 subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
-                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+                description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
                 subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
-                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+                description: 'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
         ]
         return (
             <View style={styles.container}>
                 <View style={{ marginTop: 10, backgroundColor: '#fff', width: '90%', borderRadius: 10, justifyContent: 'space-between', flexDirection: 'row' }}>
-                    <Icon
-                        name='search'
-                        containerStyle={{
-                            marginLeft: '2%'
-                        }} />
-                    <TextInput
-                        style={{
-                            marginLeft: '-60%'
-                        }}
-                        inputAccessoryViewID={inputAccessoryViewID}
-                        onChangeText={text => this.setState({ text })}
-                        value={this.state.text}
-                    />
+                    <View style={{flexDirection:'row'}}>
+                        <Icon
+                            name='search'
+                            containerStyle={{
+                                marginLeft: '2%'
+                            }} />
+                        <TextInput
+                            style={{
+                                width:'80%'
+                            }}
+                            inputAccessoryViewID={inputAccessoryViewID}
+                            onChangeText={text => this.setState({ text })}
+                            placeholder='Search'
+                            value={this.state.text}
+                        />
+                    </View>
                     <Icon
                         name='mic'
                         containerStyle={{
@@ -88,7 +92,7 @@ export default class Listscreen extends Component {
                         <View containerStyle={{ backgroundColor: 'white', }}>
                             {
                                 list.map((l, i) => (
-                                    <TouchableOpacity  onPress={() => navigate('ListDetail',{l})}>
+                                    <TouchableOpacity onPress={() => navigate('ListDetail', { l })}>
 
                                         <ListItem
                                             // onPress={() => navigate('MCHProjectScreen')}
@@ -127,6 +131,7 @@ export default class Listscreen extends Component {
                     activeTab={activeTab}
                     navigate={navigate}
                     color='red'
+                    homecolor='#fff'
                     toggleActiveTab={this.toggleActiveTab} />
                 <View style={{ display: (activeTab === 1) ? 'flex' : 'none' }}>
                 </View>

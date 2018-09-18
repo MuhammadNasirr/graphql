@@ -82,6 +82,7 @@ export default class ListDetail extends Component {
                     activeTab={activeTab}
                     navigate={navigate}
                     color='red'
+                    homecolor='#fff'
                     toggleActiveTab={this.toggleActiveTab} />
                 <View style={{ display: (activeTab === 1) ? 'flex' : 'none' }}>
                 </View>
