@@ -25,32 +25,39 @@ export default class Listscreen extends Component {
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
-                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit'
+                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
+                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
-                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit'
+                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
+                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
-                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit'
+                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
+                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
+
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
-                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit'
+                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
+                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
-                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit'
+                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
+                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
             {
                 name: 'Hair, Skin & Nails Formula',
                 avatar_url: 'https://cache.pakistantoday.com.pk/5c6NgsBa.jpeg',
-                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit'
+                subtitle: 'Neque porro quisquam est qui dolorem ipsum quia dolor sit',
+                description:'Neque porro quisquam est qui dolorem ipsum quia dolor sitNeque porro quisquam est qui dolorem ipsum quia dolor sit'
             },
         ]
         return (
@@ -81,7 +88,7 @@ export default class Listscreen extends Component {
                         <View containerStyle={{ backgroundColor: 'white', }}>
                             {
                                 list.map((l, i) => (
-                                    <TouchableOpacity  onPress={() => navigate('ListDetail')}>
+                                    <TouchableOpacity  onPress={() => navigate('ListDetail',{l})}>
 
                                         <ListItem
                                             // onPress={() => navigate('MCHProjectScreen')}
@@ -119,6 +126,7 @@ export default class Listscreen extends Component {
                 <ProfileNavBar
                     activeTab={activeTab}
                     navigate={navigate}
+                    color='red'
                     toggleActiveTab={this.toggleActiveTab} />
                 <View style={{ display: (activeTab === 1) ? 'flex' : 'none' }}>
                 </View>
