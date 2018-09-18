@@ -6,19 +6,19 @@ import { Icon, ListItem } from 'react-native-elements';
 export default class ProfileNavBar extends Component {
 
     render() {
-        const { toggleActiveTab, activeTab,navigate } = this.props;
+        const { toggleActiveTab, activeTab,navigate,color, homecolor} = this.props;
         // const { navigate } = this.props.navigation;
         return (
             <View style={(activeTab === 1) ? styles.active : styles.tabName} style={[styles.wrapper, { marginBottom: 0.5 }]}>
                 <Icon
                     name='home'
                     size={30}
-                    color='#fff'
-                    onPress={() => toggleActiveTab(1)}
+                    color={homecolor}
+                    onPress={() => navigate('mapscreen')}
                     style={(activeTab === 1) ? styles.active : styles.tabName} />
                 <Icon
                     name='search'
-                    color='#fff'
+                    color={color}
                     size={30}
                     onPress={() => navigate('Listscreen')}
                     style={(activeTab === 2) ? styles.active : styles.tabName} />

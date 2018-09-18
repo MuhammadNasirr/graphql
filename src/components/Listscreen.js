@@ -10,10 +10,11 @@ export default class Listscreen extends Component {
         headerStyle: {
             backgroundColor: '#4c4cff',
         },
+        headerLeft: null
     }
     constructor(props) {
         super(props);
-        this.state = { text: 'Search', activeTab: 1 };
+        this.state = { text: '', activeTab: 1 };
     }
     toggleActiveTab = (activeTab) => {
         this.setState({ activeTab })
@@ -26,19 +27,22 @@ export default class Listscreen extends Component {
         return (
             <View style={styles.container}>
                 <View style={{ marginTop: 10, backgroundColor: '#fff', width: '90%', borderRadius: 10, justifyContent: 'space-between', flexDirection: 'row' }}>
-                    <Icon
-                        name='search'
-                        containerStyle={{
-                            marginLeft: '2%'
-                        }} />
-                    <TextInput
-                        style={{
-                            marginLeft: '-60%'
-                        }}
-                        inputAccessoryViewID={inputAccessoryViewID}
-                        onChangeText={text => this.setState({ text })}
-                        value={this.state.text}
-                    />
+                    <View style={{flexDirection:'row'}}>
+                        <Icon
+                            name='search'
+                            containerStyle={{
+                                marginLeft: '2%'
+                            }} />
+                        <TextInput
+                            style={{
+                                width:'80%'
+                            }}
+                            inputAccessoryViewID={inputAccessoryViewID}
+                            onChangeText={text => this.setState({ text })}
+                            placeholder='Search'
+                            value={this.state.text}
+                        />
+                    </View>
                     <Icon
                         name='mic'
                         containerStyle={{
@@ -97,6 +101,8 @@ export default class Listscreen extends Component {
                 <ProfileNavBar
                     activeTab={activeTab}
                     navigate={navigate}
+                    color='red'
+                    homecolor='#fff'
                     toggleActiveTab={this.toggleActiveTab} />
                 <View style={{ display: (activeTab === 1) ? 'flex' : 'none' }}>
                 </View>
