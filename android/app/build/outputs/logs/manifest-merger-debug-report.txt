@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a1a74059907fca58934725c3469e61df\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24c39d97a6e0446cd2620521f56e3be3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f434a54738dba999f6481f30081a735f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\12650c72cfbffc6397e3c36dae7f709e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6084678bb5f16ea29ca767e6fdba1fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f80d6f270f347e33e99758540f3c166e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a2e2976757d9b14e2af59e8425869b9d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8193021931458d7a25487f17fb61b277\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\07ebced914d71575d767de97945a2b17\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e45eee4518bfc1ac48e75b6b270ae52d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\8aa2910fbbf4316d71906b7747cbfbef\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51b329f64034e5a6deeb0109e5aec187\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c0252ed24e9dab307f3157bb229194c0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:5:22-75
+application
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:8:7-38
+activity#com.graphqlstore.MainActivity
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a1a74059907fca58934725c3469e61df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a1a74059907fca58934725c3469e61df\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24c39d97a6e0446cd2620521f56e3be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24c39d97a6e0446cd2620521f56e3be3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f434a54738dba999f6481f30081a735f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f434a54738dba999f6481f30081a735f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\12650c72cfbffc6397e3c36dae7f709e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\12650c72cfbffc6397e3c36dae7f709e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6084678bb5f16ea29ca767e6fdba1fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6084678bb5f16ea29ca767e6fdba1fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f80d6f270f347e33e99758540f3c166e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f80d6f270f347e33e99758540f3c166e\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a2e2976757d9b14e2af59e8425869b9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a2e2976757d9b14e2af59e8425869b9d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8193021931458d7a25487f17fb61b277\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8193021931458d7a25487f17fb61b277\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\07ebced914d71575d767de97945a2b17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\07ebced914d71575d767de97945a2b17\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e45eee4518bfc1ac48e75b6b270ae52d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e45eee4518bfc1ac48e75b6b270ae52d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\8aa2910fbbf4316d71906b7747cbfbef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\8aa2910fbbf4316d71906b7747cbfbef\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51b329f64034e5a6deeb0109e5aec187\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51b329f64034e5a6deeb0109e5aec187\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c0252ed24e9dab307f3157bb229194c0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c0252ed24e9dab307f3157bb229194c0\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:20:5-44
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
