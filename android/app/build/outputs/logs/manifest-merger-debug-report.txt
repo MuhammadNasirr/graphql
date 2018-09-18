@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
 MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:2:1-15:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:17:1-22:12
@@ -25,20 +25,20 @@ MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\ca
 MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:2:1-9:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
+INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
 	package
 		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:2:5-31
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:11-69
@@ -52,8 +52,12 @@ MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\ca
 MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:5:22-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:7:5-24:19
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:8:5-25:19
 MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:13:5-20
 MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:11:5-20
@@ -61,39 +65,39 @@ MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\cach
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:2:3-17
 MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:9:7-39
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:10:7-39
 	android:icon
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:10:7-41
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:11:7-41
 	android:allowBackup
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:11:7-34
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:12:7-34
 	android:theme
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:12:7-38
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:13:7-38
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:8:7-38
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:9:7-38
 activity#com.graphqlstore.MainActivity
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:13:7-22:18
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:14:7-23:18
 	android:label
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:16:9-41
 	android:windowSoftInputMode
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:17:9-51
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:18:9-51
 	android:configChanges
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:16:9-79
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:17:9-79
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:14:9-37
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:15:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:18:9-21:25
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:19:9-22:25
 action#android.intent.action.MAIN
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:19:13-65
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:13-65
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:19:21-62
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:13-73
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:21:13-73
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:23-70
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:21:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:23:7-84
+ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:24:7-84
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:23:17-81
+		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:24:17-81
 uses-sdk
 INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
@@ -149,8 +153,8 @@ INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

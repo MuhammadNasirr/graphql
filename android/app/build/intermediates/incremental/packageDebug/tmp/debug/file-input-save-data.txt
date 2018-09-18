@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Sep 19 00:18:21 PKT 2018
+#Wed Sep 19 01:59:30 PKT 2018
 5.base=C\:\\_WORKING_\\graphql\\android\\app\\build\\intermediates\\assets\\debug
 22.path=lib/armeabi-v7a/libglog.so
 32.set=NATIVE_RESOURCE
