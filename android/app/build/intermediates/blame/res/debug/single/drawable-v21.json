@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\909ab235d692b2b2977ec22d7ac5591d\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f9a2037e0a24b3fa1dba8005b36c63d9\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f9a2037e0a24b3fa1dba8005b36c63d9\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f9a2037e0a24b3fa1dba8005b36c63d9\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]

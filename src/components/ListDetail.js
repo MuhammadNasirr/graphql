@@ -33,12 +33,12 @@ export default class ListDetail extends Component {
                         </View>
                         <Icon containerStyle={{ marginRight: 5 }} name='star' size={30} color='#fff' />
                     </View>
-                    <Text style={{ color: '#000', fontSize: 18, fontWeight: 'bold', textAlign: 'center' }}>{data.l.name}</Text>
+                    <Text style={{ color: '#000', fontSize: 18, fontWeight: 'bold', textAlign: 'center' }}>{data.l.title}</Text>
                     <View style={{ height: 1, width: '100%', marginTop: 5, backgroundColor: '#000' }} />
                     <View style={{ alignItems: 'center' }}>
                         <Image
                             style={{ marginVertical: 10, width: 100, height: 100, alignItems: 'center' }}
-                            source={{ uri: data.l.avatar_url }}
+                            source={{ uri: data.l.image_url }}
                         />
                     </View>
                     <View style={{ height: 1, width: '100%', marginTop: 5, backgroundColor: '#c5c5c5' }} />

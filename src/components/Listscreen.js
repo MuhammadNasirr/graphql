@@ -61,7 +61,7 @@ export default class Listscreen extends Component {
 
                                     {
                                        return data.getProducts.map((l, i) => (
-                                            <TouchableOpacity onPress={() => navigate('ListDetail')}>
+                                            <TouchableOpacity onPress={() => navigate('ListDetail',{l})}>
 
                                                 <ListItem
                                                     // onPress={() => navigate('MCHProjectScreen')}

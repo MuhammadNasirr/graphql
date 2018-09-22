@@ -1,160 +1,249 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:2:1-15:12
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a1a74059907fca58934725c3469e61df\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24c39d97a6e0446cd2620521f56e3be3\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f434a54738dba999f6481f30081a735f\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\12650c72cfbffc6397e3c36dae7f709e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6084678bb5f16ea29ca767e6fdba1fd\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f80d6f270f347e33e99758540f3c166e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a2e2976757d9b14e2af59e8425869b9d\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8193021931458d7a25487f17fb61b277\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\07ebced914d71575d767de97945a2b17\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e45eee4518bfc1ac48e75b6b270ae52d\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\8aa2910fbbf4316d71906b7747cbfbef\AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:2:1-13:12
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:1:1-3:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51b329f64034e5a6deeb0109e5aec187\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c0252ed24e9dab307f3157bb229194c0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:2:1-9:12
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-vector-icons] E:\reactnative\mugheses client\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\30694d2319b45d23c68e140753a16f19\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:17:1-29:12
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f9a2037e0a24b3fa1dba8005b36c63d9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d0c76135a440ad544b99cc06e4ddbd04\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2f5c06370f2121877e3971c0db7848f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5961263f703b3df8d7707e8392f6669f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fc60aafd250a041789761049d0df661b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e552e681ce167717216dbf3532e6f8f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9e2c3f1b4e8493d88a764d43f00e09ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\909ab235d692b2b2977ec22d7ac5591d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c89946655b0228c3c55f7d33df07b523\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d3b142172c8b9dd488ae04de6dc06570\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ee0475f2bf94517e03d6a3e534a1c97c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\38d362810f15ddc64466f00eb4562af0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\475928fed2503bbff16ed33829861d30\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\70a7426e3064572967ddc93e266ef4b9\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0f295ef04ec4f10f676a3600d3f3771a\AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ecf74bc578a5b7eace91fae6e4030800\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9833b9c79f0396e0460a07c935effaaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\7aa550ce24001ca98928d80394a5644a\AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8914fa190cbc0e768c1feae701bd9e2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7b90b7117a71d3b0a662247db05def70\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
 	package
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:2:5-31
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:2:5-31
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:11-69
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:4:5-67
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:4:5-67
+MERGED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:4:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:5:5-77
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:11:5-78
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:11:5-78
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:11:5-78
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:5:22-75
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:6:5-78
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:6:5-78
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:6:22-76
 application
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:8:5-25:19
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:13:5-20
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:11:5-20
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:2:3-17
-MERGED from [org.webkit:android-jsc:r174650] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\caa9e2fb133aff4d35d42dd0de637351\AndroidManifest.xml:2:3-17
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:8:5-28:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:13:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d0c76135a440ad544b99cc06e4ddbd04\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d0c76135a440ad544b99cc06e4ddbd04\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\70a7426e3064572967ddc93e266ef4b9\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\70a7426e3064572967ddc93e266ef4b9\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0f295ef04ec4f10f676a3600d3f3771a\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\0f295ef04ec4f10f676a3600d3f3771a\AndroidManifest.xml:2:3-17
 	android:label
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:10:7-39
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:10:7-39
 	android:icon
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:11:7-41
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:11:7-41
 	android:allowBackup
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:12:7-34
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:12:7-34
 	android:theme
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:13:7-38
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:13:7-38
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:9:7-38
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:9:7-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:14:7-16:66
+	android:value
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:16:9-64
+	android:name
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:15:9-54
 activity#com.graphqlstore.MainActivity
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:14:7-23:18
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:17:7-26:18
 	android:label
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:19:9-41
 	android:windowSoftInputMode
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:18:9-51
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:21:9-51
 	android:configChanges
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:17:9-79
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:20:9-79
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:15:9-37
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:18:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:19:9-22:25
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:22:9-25:25
 action#android.intent.action.MAIN
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:13-65
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:20:21-62
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:23:21-62
 category#android.intent.category.LAUNCHER
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:21:13-73
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:24:13-73
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:21:23-70
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:24:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:24:7-84
+ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:27:7-84
 	android:name
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:24:17-81
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:27:17-81
 uses-sdk
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-vector-icons] C:\_WORKING_\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\ea6d0d5ff2b0a7d325300d3c709629f2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\b5373622de5104932463c6840d2b1643\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a1a74059907fca58934725c3469e61df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\a1a74059907fca58934725c3469e61df\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24c39d97a6e0446cd2620521f56e3be3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\24c39d97a6e0446cd2620521f56e3be3\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f434a54738dba999f6481f30081a735f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f434a54738dba999f6481f30081a735f\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\12650c72cfbffc6397e3c36dae7f709e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\12650c72cfbffc6397e3c36dae7f709e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6084678bb5f16ea29ca767e6fdba1fd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b6084678bb5f16ea29ca767e6fdba1fd\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f80d6f270f347e33e99758540f3c166e\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:27.1.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f80d6f270f347e33e99758540f3c166e\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a2e2976757d9b14e2af59e8425869b9d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\a2e2976757d9b14e2af59e8425869b9d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8193021931458d7a25487f17fb61b277\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\8193021931458d7a25487f17fb61b277\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\07ebced914d71575d767de97945a2b17\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\07ebced914d71575d767de97945a2b17\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e45eee4518bfc1ac48e75b6b270ae52d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\e45eee4518bfc1ac48e75b6b270ae52d\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\8aa2910fbbf4316d71906b7747cbfbef\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\8aa2910fbbf4316d71906b7747cbfbef\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\689031804ac6ccb2b93c909cc75d764c\AndroidManifest.xml:7:5-9:41
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51b329f64034e5a6deeb0109e5aec187\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\51b329f64034e5a6deeb0109e5aec187\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c0252ed24e9dab307f3157bb229194c0\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\c0252ed24e9dab307f3157bb229194c0\AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\ddb986c65da4a3c8bfe443d9dd5b6857\AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\64ab44419442c1cb270706df0aa16528\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.0] C:\Users\mughees\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c1bd2e6a5fca6f03a78f21923bb9dfdc\AndroidManifest.xml:20:5-44
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-vector-icons] E:\reactnative\mugheses client\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] E:\reactnative\mugheses client\graphql\node_modules\react-native-vector-icons\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\30694d2319b45d23c68e140753a16f19\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.2] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\30694d2319b45d23c68e140753a16f19\AndroidManifest.xml:20:5-43
+MERGED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\react-native-0.57.0.aar\781c8c4ca7bc6f85f0319a18f1785763\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f9a2037e0a24b3fa1dba8005b36c63d9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\f9a2037e0a24b3fa1dba8005b36c63d9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d0c76135a440ad544b99cc06e4ddbd04\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\d0c76135a440ad544b99cc06e4ddbd04\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2f5c06370f2121877e3971c0db7848f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\a2f5c06370f2121877e3971c0db7848f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5961263f703b3df8d7707e8392f6669f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\5961263f703b3df8d7707e8392f6669f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fc60aafd250a041789761049d0df661b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\fc60aafd250a041789761049d0df661b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e552e681ce167717216dbf3532e6f8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e552e681ce167717216dbf3532e6f8f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9e2c3f1b4e8493d88a764d43f00e09ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\9e2c3f1b4e8493d88a764d43f00e09ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\909ab235d692b2b2977ec22d7ac5591d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\909ab235d692b2b2977ec22d7ac5591d\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c89946655b0228c3c55f7d33df07b523\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c89946655b0228c3c55f7d33df07b523\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d3b142172c8b9dd488ae04de6dc06570\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\d3b142172c8b9dd488ae04de6dc06570\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ee0475f2bf94517e03d6a3e534a1c97c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\ee0475f2bf94517e03d6a3e534a1c97c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\38d362810f15ddc64466f00eb4562af0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\38d362810f15ddc64466f00eb4562af0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\475928fed2503bbff16ed33829861d30\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\475928fed2503bbff16ed33829861d30\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\70a7426e3064572967ddc93e266ef4b9\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\70a7426e3064572967ddc93e266ef4b9\AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ecf74bc578a5b7eace91fae6e4030800\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ecf74bc578a5b7eace91fae6e4030800\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9833b9c79f0396e0460a07c935effaaa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9833b9c79f0396e0460a07c935effaaa\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\7aa550ce24001ca98928d80394a5644a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\7aa550ce24001ca98928d80394a5644a\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8914fa190cbc0e768c1feae701bd9e2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8914fa190cbc0e768c1feae701bd9e2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7b90b7117a71d3b0a662247db05def70\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7b90b7117a71d3b0a662247db05def70\AndroidManifest.xml:20:5-44
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		ADDED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
-		INJECTED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		ADDED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] E:\reactnative\mugheses client\graphql\node_modules\react-native-maps\lib\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:22-78
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\9030b8ebd74f6428442f53f92af7bb27\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\0e728b055168a15f379d6effb7c2a043\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\5d3290e406c40935879bd0c8f4f38d2b\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\android-maps-utils-0.5.aar\0824c082b2fb95bbca5ffc266620f90a\AndroidManifest.xml:9:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\df3cdb7107dcfb8f4932f11f2548d92f\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\Muhammmad Nasir\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\46ecd3215fe5dee46cd35449cd48753f\AndroidManifest.xml:27:13-51
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from C:\_WORKING_\graphql\android\app\src\main\AndroidManifest.xml:1:1-27:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\reactnative\mugheses client\graphql\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

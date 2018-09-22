@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher_round.png",
+        "source": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

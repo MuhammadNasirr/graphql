@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\_WORKING_\\graphql\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\mughees\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\f80d6f270f347e33e99758540f3c166e\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\909ab235d692b2b2977ec22d7ac5591d\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,41 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\mughees\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b5373622de5104932463c6840d2b1643\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f9a2037e0a24b3fa1dba8005b36c63d9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\reactnative\\mugheses client\\graphql\\android\\app\\build\\intermediates\\res\\merged\\debug\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\909ab235d692b2b2977ec22d7ac5591d\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Muhammmad Nasir\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\f9a2037e0a24b3fa1dba8005b36c63d9\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
